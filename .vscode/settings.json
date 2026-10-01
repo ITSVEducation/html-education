@@ -1,6 +1,6 @@
 {
   "editor.formatOnSave": true,
-  "extensions.ignoreRecommendations": false,
+  "extensions.ignoreRecommendations": true,
   "markdown.copyFiles.destination": {
     "/00_はじめに/README.md": "/docs/images/${documentBaseName}/"
   },
