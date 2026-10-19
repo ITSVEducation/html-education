@@ -4,7 +4,7 @@
 
 ## 完成イメージ
 
-[デモを見る（GitHub Pages）](https://itsvapp.github.io/htmlkenshu/06_WebAPI/00_%E7%9B%AE%E6%A8%99/)
+[デモを見る（GitHub Pages）](https://itsveducation.github.io/html-education/06_WebAPI/00_%E7%9B%AE%E6%A8%99/)
 
 ゴールの仕様は [00_目標/学習事項.md](00_目標/学習事項.md) を参照してください（初期表示でピカチュウ、図鑑 No 入力で表示、存在しない No でエラー）。
 
