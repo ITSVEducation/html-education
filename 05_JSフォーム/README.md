@@ -4,7 +4,7 @@ JavaScript で**フォームの入力チェックと画面の出し分け**を�
 
 ## 完成イメージ
 
-[デモを見る（GitHub Pages）](https://itsvapp.github.io/htmlkenshu/05_JS%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/00_%E7%9B%AE%E6%A8%99/)
+[デモを見る（GitHub Pages）](https://itsveducation.github.io/html-education/05_JS%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/00_%E7%9B%AE%E6%A8%99/)
 
 ゴールの仕様は [00_目標/学習事項.md](00_目標/学習事項.md) を参照してください（8 文字以上・英字・数字・確認用一致でボタンが押せるようになる）。
 

@@ -8,9 +8,9 @@ HTML 初学者向け研修の最初のステップです。ここでは学習に
 ### 前提条件
 
 - VSCode をインストールしていること
-- 既に[資材](https://github.com/ITSVAPP/htmlkenshu/archive/refs/heads/main.zip)をローカルにダウンロードしていること
+- 既に[資材](https://github.com/ITSVEducation/html-education/archive/refs/heads/main.zip)をローカルにダウンロードしていること
   - 解凍すること
-  - VSCode を起動し、「ファイル」⇒「フォルダーを開く」から解凍した`htmlkenshu-main`を選択する
+  - VSCode を起動し、「ファイル」⇒「フォルダーを開く」から解凍した`html-education-main`を選択する
 
 ### 手順
 
