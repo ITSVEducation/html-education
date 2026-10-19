@@ -20,14 +20,14 @@
 
 ## まずやること
 
-1. [資材をダウンロード](https://github.com/ITSVAPP/htmlkenshu/archive/refs/heads/main.zip)（または下記の git clone）して解凍する
+1. [資材をダウンロード](https://github.com/ITSVEducation/html-education/archive/refs/heads/main.zip)（または下記の git clone）して解凍する
 2. [00\_はじめに](00_はじめに/) を開いて環境構築をする
 3. あとは上の表の順番に進める
 
 ### git を利用する場合
 
 ```
-git clone https://github.com/ITSVAPP/htmlkenshu.git
+git clone https://github.com/ITSVEducation/html-education.git
 ```
 
 - 解答を見たいとき: `git checkout answer` ／ 戻すとき: `git checkout main`
